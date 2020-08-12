@@ -1,5 +1,5 @@
 {
-    "name": "Random EDP picker",
+    "name": "Random number picker",
     "description": "",
     "dependencies": {
         "core": "*",
@@ -17,5 +17,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
