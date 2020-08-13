@@ -1,5 +1,5 @@
 {
-    "name": "Random EDP picker",
+    "name": "Random Group picker",
     "description": "",
     "dependencies": {
         "core": "*",
